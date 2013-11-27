@@ -21,7 +21,8 @@
     }
   ],
   "dependencies": {
-    "express": "*",
-    "tail": ""
+    "express": "",
+    "tail": "",
+    "socket.io": ""
   }
 }
